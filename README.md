@@ -15,10 +15,9 @@ Replace `<github-username>` and `<repo-name>` with the GitHub account and reposi
 ## Files
 
 - `In2STEM_Project_1_Student.ipynb`: worksheet notebook with guided code blanks.
-- `In2STEM_Project_1_Solutions.ipynb`: completed notebook with solutions.
 - `data/low_z_sample.csv`: reduced teaching sample used by the notebooks.
 - `binder/environment.yml`: Python environment used by Binder.
 
-The older `In2STEM_Project_2.ipynb` and `In2STEM_Project_3.ipynb` files are kept as legacy local notebooks. The Binder-ready student materials are the Project 1 notebooks above.
+Teacher solutions and older legacy notebooks are kept locally only and are not included in the public Binder repository.
 
 Binder sessions are temporary. Students should download their edited notebook at the end of the session if they want to keep their work.
