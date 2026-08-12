@@ -1,0 +1,12 @@
+name: in2stem2026
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - jupyterlab
+  - ipykernel
+  - numpy
+  - pandas
+  - matplotlib
+  - seaborn
+  - astropy
